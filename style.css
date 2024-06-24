@@ -18,3 +18,41 @@ img{
     justify-content: center;
     align-items: center;
 }
+
+li{
+    padding: 5px;
+}
+
+h1{
+    width: 400px;
+    padding: 5px;
+    margin: 16px auto;
+    text-align: center;
+    box-shadow: inset;
+    border-radius: 25px;
+    border: 5px solid cadetblue;
+}
+    
+
+
+.listcon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.hcontainer{
+    align-items: center;
+    align-self: center;
+    width: auto;
+}
+
+/* .card{
+    width: 400px;
+    background: #fff;
+    margin: 16px auto;
+    padding: 20px;
+    border: 5px solid red;
+    
+} */
