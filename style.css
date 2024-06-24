@@ -1,0 +1,20 @@
+body{
+    background-color: antiquewhite;
+}
+
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+    width: 300;
+    height: auto;
+    border-radius: 6%;
+    align-self: center;
+}
+
+.imagecontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
